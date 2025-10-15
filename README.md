@@ -17,7 +17,7 @@ A modern, responsive portfolio website showcasing my experience, projects, and s
 - **Styling:** Tailwind CSS v4
 - **UI Components:** shadcn/ui
 - **Icons:** Lucide React
-- **Deployment:** Vercel
+- **Deployment:** Oblien
 
 ## Getting Started
 
