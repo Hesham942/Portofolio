@@ -85,7 +85,8 @@ yarn dev
 
 This portfolio is deployed on Oblien. Any push to the main branch automatically triggers a new deployment.
 
-[![Deploy with Oblien](https://vercel.com/button)](https:/hesham.obl.ee)
+[![Deploy with Oblien](https://vercel.com/button)](https://hesham.obl.ee/)
+
 
 
 ## Contact
