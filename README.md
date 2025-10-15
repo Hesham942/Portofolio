@@ -29,30 +29,30 @@ A modern, responsive portfolio website showcasing my experience, projects, and s
 ### Installation
 
 1. Clone the repository:
-\`\`\`bash
+```bash
 git clone https://github.com/Hesham942/portfolio.git
 cd portfolio
-\`\`\`
+```
 
 2. Install dependencies:
-\`\`\`bash
+```bash
 npm install
 # or
 yarn install
-\`\`\`
+```
 
 3. Run the development server:
-\`\`\`bash
+```bash
 npm run dev
 # or
 yarn dev
-\`\`\`
+```
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## Project Structure
 
-\`\`\`
+```
 ├── app/
 │   ├── layout.tsx          # Root layout with theme provider
 │   ├── page.tsx            # Main portfolio page
@@ -69,7 +69,7 @@ yarn dev
 │   ├── theme-provider.tsx  # Theme context provider
 │   └── theme-toggle.tsx    # Dark mode toggle button
 └── public/                 # Static assets
-\`\`\`
+```
 
 ## Sections
 
