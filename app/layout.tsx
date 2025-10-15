@@ -12,6 +12,9 @@ export const metadata: Metadata = {
   description:
     "Portfolio of Hesham Hatem, Computer Science & AI student specializing in data engineering, machine learning, and big data technologies.",
   generator: "v0.app",
+  icons: {
+    icon: "/favicon.ico",
+  },
 }
 
 export default function RootLayout({
