@@ -7,7 +7,7 @@ const education = {
   university: "Menoufia National University",
   location: "Egypt",
   period: "2022 – 2026",
-  gpa: "3.3 (Very Good)",
+  gpa: "(Very Good)",
 }
 
 const certifications = [
