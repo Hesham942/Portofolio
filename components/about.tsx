@@ -9,7 +9,7 @@ export function About() {
           <div className="space-y-4 text-muted-foreground leading-relaxed">
             <p>
               I'm a passionate Computer Science and AI student at Menoufia National University with strong skills in
-              programming, data structures, and problem-solving. Currently maintaining a GPA of 3.3 (Very Good), I'm
+              programming, data structures, and problem-solving. Currently maintaining a GPA of (Very Good), I'm
               dedicated to applying my technical knowledge in real-world scenarios and expanding my expertise in
               emerging technologies.
             </p>
