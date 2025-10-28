@@ -94,7 +94,7 @@ This portfolio is deployed on Oblien. Any push to the main branch automatically 
 
 ## Contact
 
-- **Email:** heshamhatem2004@gmail.com
+- **Email:** heshamhatem2004@gmail.co
 - **LinkedIn:** [linkedin.com/in/hesham-hatem-0968b1287](https://www.linkedin.com/in/hesham-hatem-0968b1287/)
 - **GitHub:** [github.com/Hesham942](https://github.com/Hesham942)
 
